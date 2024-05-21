@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/umarsaleem-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/umarsaleem-portfolio/static/js/main.c995054a.js",
+    "static/js/453.89c725a2.chunk.js": "/umarsaleem-portfolio/static/js/453.89c725a2.chunk.js",
+    "index.html": "/umarsaleem-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/umarsaleem-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.c995054a.js.map": "/umarsaleem-portfolio/static/js/main.c995054a.js.map",
+    "453.89c725a2.chunk.js.map": "/umarsaleem-portfolio/static/js/453.89c725a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c995054a.js"
+  ]
+}
